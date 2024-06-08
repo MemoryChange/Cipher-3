@@ -1,0 +1,1 @@
+A program for encrypting and decrypting data within the alphabet, a key is specified, in this example it changes from the position of the character and is determined by the remainder of division by n, the same key is used for encryption and decryption.
